@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#2440E6" opacity=".18"/></pattern>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2440E6"/><stop offset="1" stop-color="#E8962E"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="#0E1726"/>
+  <rect width="1200" height="300" rx="18" fill="url(#dots)"/>
+  <g fill="none" stroke="#2E3B57" stroke-width="2">
+    <path id="p1" d="M690 70 C760 70 760 150 830 150"/>
+    <path id="p2" d="M690 230 C760 230 760 150 830 150"/>
+    <path id="p3" d="M890 150 C950 150 950 90 1010 90"/>
+    <path id="p4" d="M890 150 C950 150 950 215 1010 215"/>
+    <path id="p5" d="M1070 90 C1110 90 1110 150 1150 150"/>
+  </g>
+  <g font-size="13" font-family="Consolas, monospace" fill="#E7ECF5">
+    <rect x="600" y="52" width="90" height="36" rx="8" fill="#111A2D" stroke="#2E3B57"/><text x="645" y="75" text-anchor="middle">Webhook</text>
+    <rect x="600" y="212" width="90" height="36" rx="8" fill="#111A2D" stroke="#2E3B57"/><text x="645" y="235" text-anchor="middle">API</text>
+    <rect x="830" y="132" width="60" height="36" rx="8" fill="#1B2547" stroke="#8394FF"/><text x="860" y="155" text-anchor="middle" fill="#8394FF">IA</text>
+    <rect x="1010" y="72" width="60" height="36" rx="8" fill="#111A2D" stroke="#2E3B57"/><text x="1040" y="95" text-anchor="middle">CRM</text>
+    <rect x="1010" y="197" width="60" height="36" rx="8" fill="#111A2D" stroke="#E8962E" stroke-dasharray="4 3"/><text x="1040" y="220" text-anchor="middle" fill="#F4B35E">Humain</text>
+  </g>
+  <g fill="#F4B35E">
+    <circle r="4"><animateMotion dur="2.4s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
+    <circle r="4"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite"><mpath href="#p2"/></animateMotion></circle>
+    <circle r="4"><animateMotion dur="2s" begin=".4s" repeatCount="indefinite"><mpath href="#p3"/></animateMotion></circle>
+    <circle r="4"><animateMotion dur="2s" begin="1.4s" repeatCount="indefinite"><mpath href="#p4"/></animateMotion></circle>
+    <circle r="4"><animateMotion dur="1.6s" begin=".8s" repeatCount="indefinite"><mpath href="#p5"/></animateMotion></circle>
+  </g>
+  <text x="56" y="112" font-size="56" font-weight="800" fill="#FFFFFF">Mourad AMOUSSA</text>
+  <rect x="58" y="132" width="230" height="4" rx="2" fill="url(#g)"/>
+  <text x="56" y="176" font-size="22" fill="#C9D3E6">AI &amp; Automation Engineer · n8n · Agents IA</text>
+  <text x="56" y="214" font-size="17" fill="#98A3B8">5 workflows en production · 40-50 h/semaine économisées · 100 % d'adoption</text>
+  <g transform="translate(56,240)">
+    <rect width="372" height="30" rx="15" fill="#13261F" stroke="#4CC98D"/>
+    <circle cx="18" cy="15" r="5" fill="#4CC98D"><animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="32" y="20" font-size="14" fill="#4CC98D">Recherche une alternance en automatisation &amp; IA</text>
+  </g>
+</svg>
