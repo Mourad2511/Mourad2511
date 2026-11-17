@@ -14,23 +14,23 @@ AI & Automation Engineer, titulaire d'un **Mastère Expert IA (Bac+5)** et d'un 
 Pendant un an, j'ai été le seul profil IA d'**Ekstere**, une scale-up de l'économie circulaire (3 sites, 50 000 références).
 Ma méthode : je pars du quotidien des équipes, j'automatise ce qui a lieu de l'être, et je mesure le temps gagné.
 
-🎯 **Je cherche une alternance en automatisation & IA** (Master ML Engineer, Liora School : 3 semaines en entreprise, 1 semaine de cours à distance).
+ **Je cherche une alternance en automatisation & IA** (Master ML Engineer, Liora School : 3 semaines en entreprise, 1 semaine de cours à distance).
 
 ---
 
-### 📊 Ce que mes automatisations ont produit
+###  Ce que mes automatisations ont produit
 
 | | |
 |:--|:--|
-| ⏱️ **40-50 h / semaine** | de travail manuel économisées pour les équipes |
-| ⚙️ **5 workflows** | n8n et agents IA en production, utilisés chaque jour |
-| ✅ **100 %** | d'adoption sur chaque outil livré |
-| 💶 **2 € → 0,02 €** | coût de mise à jour d'une fiche produit (50 000 références) |
-| 🚀 **-85 %** | de temps de création des annonces, 95 % des produits en ligne en moins de 24 h |
+|  **40-50 h / semaine** | de travail manuel économisées pour les équipes |
+|  **5 workflows** | n8n et agents IA en production, utilisés chaque jour |
+|  **100 %** | d'adoption sur chaque outil livré |
+|  **2 € → 0,02 €** | coût de mise à jour d'une fiche produit (50 000 références) |
+|  **-85 %** | de temps de création des annonces, 95 % des produits en ligne en moins de 24 h |
 
 ---
 
-### 🔧 Workflows phares (n8n + IA)
+###  Workflows phares (n8n + IA)
 
 | Workflow | Ce qu'il fait | Résultat |
 |:--|:--|:--|
@@ -44,7 +44,7 @@ Ma méthode : je pars du quotidien des équipes, j'automatise ce qui a lieu de l
 
 ---
 
-### 🧰 Stack
+###  Stack
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -63,7 +63,7 @@ Ma méthode : je pars du quotidien des équipes, j'automatise ce qui a lieu de l
 
 ---
 
-### 🎓 Parcours
+###  Parcours
 
 - **2026 - 2028** · Master Machine Learning Engineer, Liora School *(alternance)*
 - **2025 - 2026** · AI Engineer, Ekstere *(alternance)*
